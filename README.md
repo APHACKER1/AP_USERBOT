@@ -2,7 +2,7 @@
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>AP_USERBOT - UserBot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
@@ -89,7 +89,7 @@ Different ways to get your `SESSION`:
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
 
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
+Made with 💕 by [@AP_HACKER](https://t.me/TeamUltroid). <br />
 
 # License
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
